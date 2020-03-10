@@ -12,7 +12,6 @@ public class Expression {
 			System.out.println(kilo);
 			System.out.println("This is the correct answer");
 		}
-		
 
 	}
 
